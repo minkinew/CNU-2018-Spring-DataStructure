@@ -1,3 +1,6 @@
 # CNU-2018-Spring-DataStructure
-- Computer Science Engineer
+- ChungNam National University
+- Computer Science Engineering
+- 201502023 MinKi Kim
+
 - Professor : JungHee Park
